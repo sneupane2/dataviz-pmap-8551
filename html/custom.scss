@@ -13,28 +13,25 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
 
-// Plasma colors
-// viridisLite::viridis(7, option = "plasma", begin = 0, end = 0.9)
+// Georgia State University brand colors
+// https://commkit.gsu.edu/website-management/web-color-guidelines/
+$blue:       #0039A6 !default;  // Georgia State Blue
+$indigo:     #374057 !default;  // Blue Steel
+$purple:     #0071CE !default;  // Cool Blue
+$pink:       #CC0000 !default;  // Red Accent
+$red:        #CC0000 !default;  // Red Accent
+$orange:     #0071CE !default;  // Cool Blue
+$yellow:     #97CAEB !default;  // Light Blue
+$green:      #2E7D32 !default;  // Accessible semantic green
+$teal:       #374057 !default;  // Blue Steel
+$cyan:       #00AEEF !default;  // Vibrant Blue
 
-// Viridis colors
-// viridisLite::viridis(6, option = "viridis", begin = 0, end = 1)
-$blue:   #0D0887 !default;  // Plasma[1]
-$indigo: #5601A4 !default;  // Plasma[2]
-$purple: #900DA4 !default;  // Plasma[3]
-$pink:   #BF3984 !default;  // Plasma[4]
-$red:    #E16462 !default;  // Plasma[5]
-$orange: #F89441 !default;  // Plasma[6]
-$yellow: #FCCE25 !default;  // Plasma[7]
-$green:  #7AD151 !default;  // Viridis[5]
-$teal:   #2A788E !default;  // Viridis[3]
-$cyan:   #22A884 !default;  // Viridis[4]
-
-$primary:       $red !default;
-$secondary:     $gray-500 !default;
+$primary:       $blue !default;
+$secondary:     $indigo !default;
 $success:       $green !default;
-$info:          $pink !default;
+$info:          $purple !default;
 $warning:       $yellow !default;
-$danger:        $orange !default;
+$danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-800 !default;
 
@@ -56,8 +53,8 @@ $sidebar-font-size: 1.1rem;
 $sidebar-font-size-section: 0.95rem;
 $footer-font-size: 0.95rem;
 
-$link-color: $red;
-$link-hover-color: $yellow;
+$link-color: $blue;
+$link-hover-color: $red;
 
 // Inline code
 $code-bg: $gray-200 !default;
@@ -163,7 +160,7 @@ div.sidebar-item-container .sidebar-link>code{
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-brand:hover {
-  color: $orange;
+  color: $white;
 }
 
 
@@ -189,7 +186,7 @@ div.sidebar-item-container .sidebar-link>code{
 // Schedule stuff
 .content-title {
   font-weight: 700;
-  color: $orange;
+  color: $purple;
 }
 
 .content-date {
@@ -207,7 +204,7 @@ div.sidebar-item-container .sidebar-link>code{
 
 .content-flag {
   font-weight: 700;
-  color: $pink;
+  color: $red;
 }
 
 .schedule-page h3 {
@@ -258,10 +255,10 @@ div.sidebar-item-container .sidebar-link>code{
 
 .news .quarto-title-meta {
   font-size: 1.1rem;
-  border-left: 5px solid $red;
+  border-left: 5px solid $blue;
   padding: 0 0.5rem 1rem;
   margin: 1rem 0 2.5rem;
-  background-color: lighten($red, 30%);
+  background-color: lighten($blue, 48%);
 }
 
 .news .quarto-categories {
@@ -291,7 +288,7 @@ div.sidebar-item-container .sidebar-link>code{
 }
 
 .bg-content {
-  background-color: $orange;
+  background-color: $purple;
 }
 
 .bg-lesson {
@@ -299,11 +296,11 @@ div.sidebar-item-container .sidebar-link>code{
 }
 
 .bg-assignment {
-  background-color: $purple;
+  background-color: $blue;
 }
 
 .bg-example {
-  background-color: $pink;
+  background-color: $red;
 }
 
 // Slightly larger buttons
@@ -365,8 +362,8 @@ main.page-columns > header > .title.h1 {
 .sidebar nav[role="doc-toc"] > ul li a {
 
   &.active {
-    border-left: 1px solid $orange;
-    color: $orange !important;
+    border-left: 1px solid $purple;
+    color: $purple !important;
   }
 }
 
