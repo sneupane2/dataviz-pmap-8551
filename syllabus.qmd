@@ -150,19 +150,13 @@ You can also check out the [Posit Community](https://community.rstudio.com/), a 
 
 ## AI, LLMs, BS, and vibe coding
 
-I *highly recommend* **not** using ChatGPT or similar large language models (LLMs) in this class. 
+AI tools such as ChatGPT and other large language models (LLMs) are increasingly common, and you may use them while learning. However, these tools should support your learning rather than replace the work of thinking, writing, and coding.
 
-I am deeply opposed to LLMs for writing.
+Be especially careful when using AI-generated code. Copying and running code without understanding what it does—sometimes called vibe coding—will not help you develop the skills this course is designed to teach. If you use AI to help troubleshoot or explain code, you should still be able to explain the code, modify it, and understand the results.
 
-I am kinda opposed to LLMs for code, but I am deeply opposed to them for beginners at code.
+The same principle applies to writing. The purpose of writing is not simply to produce words; it is to organize and clarify your thinking. AI-generated text should not replace your own engagement with the course materials.
 
-By definition, LLMs and other AI tools cannot produce truth (or even lies). They generate [bullshit](https://doi.org/10.1007/s10676-024-09775-5)^[I'm a super straight-laced Mormon and, like, never ever swear or curse, but in this case, the word has a formal philosophical meaning [@Frankfurt:2005], so it doesn't count :)]—a formal philosophical term that refers to text or speech that has no regard for truth [@HicksHumphriesSlater:2024; @Frankfurt:2005].
-
-[Please read this](resource/ai-bs.qmd) to better understand how LLMs circumvent the writing and learning process.
-
-**Do not replace the important work of writing with AI BS slop.** The point of writing is to help crystalize your thinking. Chugging out words that make it look like you read and understood the content will not help you learn. Chugging out code that you hope works is [vibe coding](https://www.npr.org/2025/05/30/nx-s1-5413387/vibe-coding-ai-software-development) and it will not help you learn.
-
-A key theme of the class is the search for truth. Generating useless content will not help with that.
+A key theme of this class is the search for evidence and meaningful insights from data. Use AI thoughtfully, critically, and as a learning tool—not as a substitute for your own analysis.
 
 In your session check-ins and assignments, I want to see good engagement with the readings. I want to see your thinking process. I want to see you make connections between the readings. I want to see your personal insights. I don't want to see a bunch of words that look like a human wrote them. That's not useful for future-you. That's not useful for me. That's a waste of time.
 
