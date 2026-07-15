@@ -1,0 +1,13 @@
+---
+title: "Class website future"
+date: "2026-12-05T12:57"
+categories: [course details]
+---
+
+Hello everyone!
+
+A few of you have wondered about what's going to happen to the course website. It will stay up indefinitely. The whole reason I put all the course materials on a standalone website rather than on iCollege is so that you can reference the materials in the future.
+
+Bookmark the course site at <https://sneupane2.github.io/dataviz-pmap-8551/>. The source materials are also available in the [course GitHub repository](https://github.com/sneupane2/dataviz-pmap-8551).
+
+The only things that aren't there are the answer keys and since I don't want the answer keys publicly accessible. So make sure you download those from iCollege before you lose access to the course there.

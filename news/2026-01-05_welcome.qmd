@@ -1,0 +1,29 @@
+---
+title: "Welcome to class!"
+date: "2026-08-17T11:26"
+categories: [getting started]
+---
+
+Hello everyone!
+
+I'm Suresh N. Neupane, your professor for PMAP 8551/4551 (Data Visualization with R) this fall, and I'm excited for the class. It's deeply satisfying to run a few lines of code and see beautiful data-based graphics.
+
+I have a few important announcements before class:
+
+- Before class, I'd love to get to know each you a little first, so I've created a quick survey to fill out. I've sent you a link to it via iCollege. Please take it at your earliest convenience.
+
+- The entire course is available at a special class website at <https://sneupane2.github.io/dataviz-pmap-8551/> (surprise—you're at it right now). Bookmark this site—it'll be your best friend for the next couple months. I only use iCollege for collecting your assignments and posting answer keys (since it's password protected). This website is the official source of dates and all other class information. Because it's not part of iCollege, you'll be able to reference it even after you graduate and lose access to GSU resources. You can even share it with others—it's just a website!
+
+- **Please read the main explanatory pages at your earliest convenience.** The instructions and expectations for the class are divided across different pages, all accessible from the menu bar at the top of the site. Please read the main pages for the [syllabus](../syllabus.qmd), [content](../content/index.qmd), [lessons](../lesson/index.qmd), [examples](../example/index.qmd), and [assignments](../assignment/index.qmd).
+
+- As you'll see on the syllabus and schedule pages, the class is divided into 15 sessions (corresponding to a typical 15-week semester). You'll follow this general process each week:
+
+	1. Go to the content page, read the readings, and watch the slides/lectures
+	2. Go to the lesson page and do the lessons
+	3. Do the assignment, referring to the example page as you go
+
+- [If you look at the syllabus page](../syllabus.qmd#course-materials), you'll notice that there are *no physical textbooks* for the class. Everything is free. Neat.
+
+You can learn more about me through [my Georgia State profile](https://aysps.gsu.edu/profile/suresh-n-neupane/).
+
+Again, I'm really excited to get started next week. This semester should be a blast!

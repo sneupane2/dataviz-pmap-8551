@@ -1,0 +1,34 @@
+author: Suresh N. Neupane
+
+instructor:
+  name: Dr. Suresh Nath Neupane
+  name_no_title: Suresh N. Neupane
+  email: sneupane2@gsu.edu
+  url: "https://aysps.gsu.edu/profile/suresh-n-neupane/"
+  linkedin: "https://www.linkedin.com/in/sureshnathneupane/"
+  github: sneupane2
+  office: "55 Park Place NE, Room 473"
+  contact_policy: >-
+    Email is the best way to contact me. I will generally respond to
+    course-related emails within 24–48 hours on weekdays
+  
+
+course:
+  number: "PMAP 8551/4551"
+  semester: "Fall 2026"
+  days: "Any day"
+  time: "Asynchronous"
+  location: "Anywhere"
+  dates: "August 24–December 7, 2026"
+  github: "https://github.com/sneupane2/dataviz-pmap-8551"
+  url: "https://sneupane2.github.io/dataviz-pmap-8551/"
+  copyright_year: "2026"
+  
+
+university:
+  name: Georgia State University
+  url: "https://www.gsu.edu"
+
+school:
+  name: Andrew Young School of Policy Studies
+  url: "https://aysps.gsu.edu/"

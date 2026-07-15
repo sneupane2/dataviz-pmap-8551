@@ -1,0 +1,6 @@
+reticulate::install_python("3.12.7")
+reticulate::virtualenv_create("dataviz-pmap-8551", version = "3.12.7")
+reticulate::py_install(c("cleannlp", "spacy"), envname = "dataviz-pmap-8551")
+reticulate::use_virtualenv("dataviz-pmap-8551")
+cleanNLP::cnlp_download_spacy("en_core_web_sm")
+cleanNLP::cnlp_init_udpipe()
