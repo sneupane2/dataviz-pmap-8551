@@ -85,6 +85,17 @@ save_data <- list(
   ),
   
   tar_target(
+    data_gutenberg_books,
+    here_rel("files", "data", "processed_data", "gutenberg_books.rds"),
+    format = "file"
+  ),
+
+  tar_target(
+    gutenberg_books,
+    readRDS(data_gutenberg_books)
+  ),
+
+  tar_target(
     data_little_women_tagged,
     here_rel("files", "data", "processed_data", "little_women_tagged.csv"),
     format = "file"
