@@ -55,14 +55,14 @@ render_xaringan <- function(slide_path) {
 
 
 # Convert xaringan HTML slides to PDF and return a relative path to keep targets
-# portable. Pagedown is more reliable for the complex sessions 12 and 15.
+# portable. Sessions 12 and 15 use committed PDFs because their large,
+# complex decks are unreliable in headless CI browsers.
 
 xaringan_to_pdf <- function(slide_path) {
   path_sans_ext <- tools::file_path_sans_ext(slide_path)
   pdf_path <- paste0(path_sans_ext, ".pdf")
 
   if (path_sans_ext %in% c("slides/12-slides", "slides/15-slides")) {
-    pagedown::chrome_print(slide_path, output = pdf_path, timeout = 120)
     return(pdf_path)
   }
 

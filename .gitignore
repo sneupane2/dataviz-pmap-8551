@@ -8,6 +8,8 @@
 /_freeze/
 
 slides/*.pdf
+!slides/12-slides.pdf
+!slides/15-slides.pdf
 slides/*.html
 slides/**/*_cache/*
 projects/*.zip
