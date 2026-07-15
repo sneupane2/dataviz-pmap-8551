@@ -407,21 +407,21 @@ Those functions have a `locale` argument, though, so it's really easy to switch 
 ### Weekdays
 
 ```{r}
-wday(x, label = TRUE, abbr = FALSE, locale = "en_US")
-wday(x, label = TRUE, abbr = FALSE, locale = "fr_FR")
-wday(x, label = TRUE, abbr = FALSE, locale = "fr_BE")
-wday(x, label = TRUE, abbr = FALSE, locale = "it_IT")
-wday(x, label = TRUE, abbr = FALSE, locale = "zh_CN")
+wday(x, label = TRUE, abbr = FALSE, locale = "en_US.UTF-8")
+wday(x, label = TRUE, abbr = FALSE, locale = "fr_FR.UTF-8")
+wday(x, label = TRUE, abbr = FALSE, locale = "fr_BE.UTF-8")
+wday(x, label = TRUE, abbr = FALSE, locale = "it_IT.UTF-8")
+wday(x, label = TRUE, abbr = FALSE, locale = "zh_CN.UTF-8")
 ```
 
 ### Months
 
 ```{r}
-month(x, label = TRUE, abbr = FALSE, locale = "en_US")
-month(x, label = TRUE, abbr = FALSE, locale = "fr_FR")
-month(x, label = TRUE, abbr = FALSE, locale = "fr_BE")
-month(x, label = TRUE, abbr = FALSE, locale = "it_IT")
-month(x, label = TRUE, abbr = FALSE, locale = "zh_CN")
+month(x, label = TRUE, abbr = FALSE, locale = "en_US.UTF-8")
+month(x, label = TRUE, abbr = FALSE, locale = "fr_FR.UTF-8")
+month(x, label = TRUE, abbr = FALSE, locale = "fr_BE.UTF-8")
+month(x, label = TRUE, abbr = FALSE, locale = "it_IT.UTF-8")
+month(x, label = TRUE, abbr = FALSE, locale = "zh_CN.UTF-8")
 ```
 
 :::
@@ -429,7 +429,7 @@ month(x, label = TRUE, abbr = FALSE, locale = "zh_CN")
 You can also set the locale for your entire R session like this:
 
 ```{r}
-Sys.setlocale(locale = "de_DE")
+Sys.setlocale(locale = "de_DE.UTF-8")
 ```
 
 Now `month()` and `wday()` will use German by default without needing to set the `locale` argument:

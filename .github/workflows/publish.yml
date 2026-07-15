@@ -35,8 +35,11 @@ jobs:
             libglpk-dev libharfbuzz-dev libicu-dev libjpeg-dev \
             libmagick++-dev libpng-dev libproj-dev libssl-dev \
             libtiff-dev libudunits2-dev libv8-dev libxml2-dev \
-            libpoppler-cpp-dev \
+            libpoppler-cpp-dev locales \
             make pandoc zlib1g-dev
+          sudo locale-gen \
+            en_US.UTF-8 fr_FR.UTF-8 fr_BE.UTF-8 \
+            it_IT.UTF-8 zh_CN.UTF-8 de_DE.UTF-8
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
