@@ -109,13 +109,13 @@ All of the readings and software in this class are **free**. There are free onli
 
 We'll rely heavily on these books, which are all available online (**for free!**). I recommend getting the printed versions of these books if you are interested, but it is not required.
 
-- Alberto Cairo, *The Truthful Art: Data, Charts, and Maps for Communication* (Berkeley, California: New Riders, 2016). \$20 used, \$50 new at [Amazon](https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075). 
+- Alberto Cairo, *The Truthful Art: Data, Charts, and Maps for Communication* (Berkeley, California: New Riders, 2016). (https://www.amazon.com/Truthful-Art-Data-Charts-Communication/dp/0321934075). 
 
   A **free** eBook version is available through GSU's library through O'Reilly's Higher Education database. The easiest way to access it is to visit a special URL (<http://go.oreilly.com/georgia-state-university>), log in with your GSU account, and then search for "The Truthful Art".
 
-- Kieran Healy, *Data Visualization: A Practical Introduction* (Princeton: Princeton University Press, 2018), <http://socviz.co/>. [**FREE** online](http://socviz.co/); \$20 used, \$40 new at [Amazon](https://www.amazon.com/Data-Visualization-Introduction-Kieran-Healy/dp/0691181624/).
+- Kieran Healy, *Data Visualization: A Practical Introduction* (Princeton: Princeton University Press, 2018), <http://socviz.co/>. [**FREE** online](http://socviz.co/); (https://www.amazon.com/Data-Visualization-Introduction-Kieran-Healy/dp/0691181624/).
 
-- Claus E. Wilke, *Fundamentals of Data Visualization* (Sebastopol, California: O’Reilly Media, 2018), <https://serialmentor.com/dataviz/>. [**FREE** online](https://clauswilke.com/dataviz/); \$36 used, $50 new at [Amazon](https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089). An eBook version is also available through [the O'Reilly database](http://go.oreilly.com/georgia-state-university), but you can just use [the online version](https://clauswilke.com/dataviz/).
+- Claus E. Wilke, *Fundamentals of Data Visualization* (Sebastopol, California: O’Reilly Media, 2018), <https://serialmentor.com/dataviz/>. [**FREE** online](https://clauswilke.com/dataviz/); (https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089). An eBook version is also available through [the O'Reilly database](http://go.oreilly.com/georgia-state-university), but you can just use [the online version](https://clauswilke.com/dataviz/).
 
 There will occasionally be additional articles and videos to read and watch. When this happens, links to these other resources will be included on the content page for that session.
 
@@ -123,7 +123,7 @@ There will occasionally be additional articles and videos to read and watch. Whe
 
 You will do all of your analysis with the open source (and free!) programming language [R](https://cran.r-project.org/). You will use [RStudio](https://www.rstudio.com/) as the main program to access R. **Think of R as an engine and RStudio as a car dashboard**—R handles all the calculations produces the actual statistics and graphical output, while RStudio provides a nice interface for running R code.
 
-R is free, but it can sometimes be a pain to install and configure. To make life easier, you can (and should!) use the free [Posit.cloud](http://posit.cloud/) service, which lets you run a full instance of RStudio in your web browser. This means you won't have to install anything on your computer to get started with R! We will have a shared class workspace in Posit.cloud that will let you quickly copy templates for examples, exercises, and mini projects.
+R is free, but it can sometimes be a pain to install and configure. To make life easier, you can (and should!) use the free [Posit.cloud](http://posit.cloud/) service, which lets you run a full instance of RStudio in your web browser. This means you won't have to install anything on your computer to get started with R! 
 
 Posit.cloud is convenient, but it can be slow and it is not designed to be able to handle larger datasets or more complicated analysis and graphics. You also can't use your own custom fonts with Posit.cloud. Over the course of the semester, you'll probably want to get around to installing R, RStudio, and other R packages on your computer and wean yourself off of Posit.cloud. This isn't 100% necessary, but it's helpful.
 
@@ -143,14 +143,14 @@ When asking for help with code, include the relevant code, the complete error me
 
 #### Online communities
 
-If you use Bluesky or Mastodon or Threads or LinkedIn, post R-related questions and content with `#rstats`. The R community is exceptionally generous and helpful.
+The R community has many useful online resources. You can find discussions and examples by searching for #rstats on platforms such as Bluesky and LinkedIn. The Posit Community is also a useful forum for questions related to R, RStudio, the tidyverse, Shiny, and related tools.
 
-Searching for help with R on Google can sometimes be tricky because the program name is, um, a single letter. Google is generally smart enough to figure out what you mean when you search for "r scatterplot", but if it does struggle, try searching for "rstats" instead (e.g. "rstats scatterplot"). Also, since most of your R work will deal with {ggplot2}, it's often easier to just search for that instead of the letter "r" (e.g. "ggplot scatterplot").
+When searching the web for R help, it is often useful to include R, rstats, or the name of the package in your search. For example, instead of searching for "scatterplot," try "R ggplot2 scatterplot."
 
 You can also check out the [Posit Community](https://community.rstudio.com/), a forum specifically designed for people using RStudio and the tidyverse (i.e. you).
 
 
-## AI, LLMs, BS, and vibe coding
+## AI and Large Language Models
 
 AI tools such as ChatGPT and other large language models (LLMs) are increasingly common, and you may use them while learning. However, these tools should support your learning rather than replace the work of thinking, writing, and coding.
 
@@ -160,9 +160,13 @@ The same principle applies to writing. The purpose of writing is not simply to p
 
 A key theme of this class is the search for evidence and meaningful insights from data. Use AI thoughtfully, critically, and as a learning tool—not as a substitute for your own analysis.
 
-In your session check-ins and assignments, I want to see good engagement with the readings. I want to see your thinking process. I want to see you make connections between the readings. I want to see your personal insights. I don't want to see a bunch of words that look like a human wrote them. That's not useful for future-you. That's not useful for me. That's a waste of time.
+In your session check-ins and assignments, I want to see good engagement with the readings. I want to see your thinking process. I want to see you make connections between the readings. I want to see your personal insights. 
 
-I will not spend time trying to guess if your assignments are AI-generated.^[There are tools that purport to be able to identify the percentage of a given text that is AI, but they do not work and result in all sorts of false positives.] If you do turn in AI-produced content, I won't automatically give you a zero, with one exception: *if your work contains fake data, it will receive a zero*. I'll grade your work based on its own merits. I've found that AI-produced content will typically earn a ✓− (50%) or lower on my check-based grading system without me even needing to look for clues that it might have come from an LLM. Remember that text generated by these platforms is philosophical bullshit. Since it has nothing to do with truth, it will not—by definition—earn good grades.
+AI should support your learning rather than replace your own thinking, writing, or coding. You are responsible for understanding any code or content you submit. You should be able to explain what your code does, modify it when needed, and interpret the results it produces.
+
+AI-generated information and code can be incomplete, inaccurate, or fabricated. You are responsible for verifying your work, including data sources, citations, code, and results. Submitting fabricated data, sources, citations, or analyses is not acceptable.
+
+When an assignment requires independent work or restricts the use of AI, those requirements will be stated in the assignment instructions. All work must comply with Georgia State University's Policy on Academic Honesty.
 
 ## Course schedule
 
@@ -170,7 +174,7 @@ We have no regularly scheduled meeting times.
 
 Instead, 100% of the class content is asynchronous. You can do the readings and watch the videos on your own schedule at whatever time works best for you. Many of you work full time and you have childcare and parental care responsibilities, leaving you with only evenings for coursework. I've designed this asynchronous system with *you specifically* in mind. 
 
-Each week has (1) a set of readings and an accompanying lecture, (2) a lesson, (3) an example with lots of reference code, and (4) a short assignment. The [schedule page](schedule.qmd) provides an overview of all these moving parts.
+Most course sessions include (1) a set of readings and an accompanying lecture, (2) a lesson, (3) an example with lots of reference code, and (4) a short assignment. The [schedule page](schedule.qmd) provides an overview of all these moving parts.
 
 I recommend following this general process for each session:
 
@@ -178,24 +182,13 @@ I recommend following this general process for each session:
 - Work through the lesson page ({{< fa chalkboard-teacher >}})
 - Complete the assignment ({{< fa pen-ruler >}}) while referencing the example ({{< fa laptop-code >}})
 
-## Learning in troubled times
+## Learning and student support
 
-Life still sucks right now. None of us is really okay. **We're all just pretending.**
+I want you to succeed in this course and to learn the skills needed to confidently work with data and create effective visualizations. I also recognize that students may encounter academic, professional, family, or personal circumstances that affect their coursework.
 
-You most likely know people who have lost their jobs, have been hospitalized, or have even died (I myself know people in all those categories). You all have increased (or possibly decreased) work responsibilities and increased family care responsibilities—you might be caring for extra people (young and/or old!) right now, and you are likely facing uncertain job prospects (or have been laid off!). You might know neighbors, relatives, or friends who have been detained or deported. You might face an uncertain legal future yourself.
+If you are having difficulty keeping up with the course or understanding the material, please reach out as early as possible. You do not need to share personal or private details. We can discuss available options and identify appropriate university resources when needed.
 
-**I'm fully committed to making sure that you learn everything you were hoping to learn from this class!** I will make whatever accommodations I can to help you finish your problem sets, do well on your projects, and learn and understand the class material. Under ordinary conditions, I am flexible and lenient with grading and course expectations when students face difficult challenges. During these troubled times, that flexibility and leniency is intensified.
-
-If you tell me you're having trouble, I will not judge you or think less of you. I hope you'll extend me the same grace.
-
-You *never* owe me personal information about your health (mental or physical). You are *always* welcome to talk to me about things that you're going through, though. If I can't help you, I usually know somebody who can.
-
-If you need extra help, or if you need more time with something, or if you feel like you're behind or not understanding everything, **do not suffer in silence!** Talk to me! I will work with you. **I promise.**
-
-*Please* contact me by e-mail to arrange a time to meet during student hours.
-
-I want you to learn lots of things from this class (Graphic design! Fancy charts! R! ggplot!), but I primarily want you to stay healthy, balanced, and grounded during these chaotic, awful times. 
-
+Please do not struggle with course material in silence. Ask questions, use the available course resources, and contact me when you need clarification or additional guidance.
 
 ## Course policies
 
@@ -207,29 +200,11 @@ This syllabus reflects a plan for the semester. Deviations may become necessary 
 
 ### Student hours
 
-Please watch [this video](https://vimeo.com/270014784): <small>(*this is not me, btw—this is a different Andrew*)</small>
-
-<div class="ratio ratio-16x9">
-<iframe src="https://player.vimeo.com/video/270014784" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="display: block; margin: 0 auto 1rem;"></iframe>
-</div>
-
-\ 
-
-Student hours are set times dedicated to all of you (most professors call these "office hours"; I don't^[There's fairly widespread misunderstanding about what office hours actually are! [Many students often think that they are the times I *shouldn't* be disturbed](https://www.chronicle.com/article/Can-This-Man-Change-How-Elite/245714/), which is the exact opposite of what they're for!]). This means that I will be waiting for you to talk to me (in person or remotely) with whatever questions you have. This is the best and easiest way to find me and the best chance for discussing class material and concerns.
-
-To meet with me, contact me by e-mail to arrange a mutually convenient time. Meetings can be online or in person.
+Office hours are Tuesdays from 11:30 AM–12:30 PM. You may also contact me by email to arrange another mutually convenient meeting time. Meetings may be held online or in person.
 
 ### Late work
 
-My general philosophy towards late work is that I don't care if stuff is late—if you turn it in, great! In past versions of this class (and other of my classes), I would have no late penalties and accept late work until the very end of the semester.
-
-While many students have appreciated the flexibility of this system, I've received *a lot* of feedback from students that such a system actually hurts them. With total freedom and no hard deadlines, lots of people put off assignments until the end and then end up not learning much and feel incredibly stressed for weeks and weeks.
-
-So to counter this, **I use kinda-sorta-hard-ish deadlines** to help you stay on schedule but also provide flexibility when needed.
-
-You will lose 0.5 points per day for each day an exercise is late. This is designed to not be a huge penalty (3 days late = 18.5/20 points on an exercise/session check-in that gets a ✓), but instead is a commitment device to help you stay on schedule.
-
-I will (typically) not accept work that is more than two weeks late. Again, this is not designed to be punitive—this is to help keep you on schedule. Being four or five weeks behind will only make you fall even more behind. HOWEVER if you have extenuating circumstances, I'm more than happy to accommodate. Just check in with me and let me know what's up.
+Assignments are due on the dates listed in the course schedule. Late work will generally receive a deduction of 0.5 points for each day it is late and may not be accepted more than two weeks after the original deadline. If extenuating circumstances affect your ability to complete an assignment on time, please contact me as early as possible so that we can discuss available options.
 
 
 ### Counseling and Psychological Services (CPS)
@@ -240,27 +215,25 @@ College and professional studies can sometimes bring academic, personal, and emo
 
 If you have difficulty affording groceries or accessing sufficient food to eat every day, or if you lack a safe and stable place to live, and you believe this may affect your performance in this course, please contact the [Dean of Students](https://deanofstudents.gsu.edu/) for support. They can provide a host of services including free groceries from the [Panther Pantry](https://nutrition.gsu.edu/panther-pantry/) and assisting with homelessness with the [Embark Network](https://deanofstudents.gsu.edu/student-assistance/embark/). Additionally, please talk to me if you are comfortable in doing so. This will enable me to provide any resources that I might possess.
 
-### Lauren's Promise
+### Student safety and victim assistance
 
-**I will listen and believe you if someone is threatening you.**
+If you are in immediate danger, call 911 or Georgia State University Police at 404-413-3333.
 
-Lauren McCluskey, a 21-year-old honors student athlete, [was murdered on October 22, 2018 by a man she briefly dated on the University of Utah campus](https://www.sltrib.com/opinion/commentary/2019/02/10/commentary-failing-lauren/). We must all take action to ensure that this never happens again.
+Students who have experienced sexual assault, dating or domestic violence, stalking, harassment, or other forms of victimization may contact Georgia State's Student Victim Assistance program for confidential support and information about available options and resources.
 
-If you are in immediate danger, call 911 or GSU police (404-413-3333).
-
-If you are experiencing sexual assault, domestic violence, or stalking, please report it to me and I will connect you to resources or call [GSU's Counseling and Psychological Services](https://counselingcenter.gsu.edu/crisis-services/concern-self/immediate-help/) (404-413-1640).
-
-Any form of sexual harassment or violence will not be excused or tolerated at Georgia State. GSU has instituted procedures to respond to violations of these laws and standards, programs aimed at the prevention of such conduct, and intervention on behalf of the victims. Georgia State University Police officers will treat victims of sexual assault, domestic violence, and stalking with respect and dignity. Advocates on campus and in the community can help with victims' physical and emotional health, reporting options, and academic concerns.
+Please be aware that faculty members are generally considered responsible employees under university policy and may be required to share reports of sexual misconduct with appropriate university officials. Students seeking confidential assistance may contact Student Victim Assistance.
 
 ### Academic honesty
 
-Violation of [GSU's Policy on Academic Honesty](https://deanofstudents.gsu.edu/faculty-staff-resources/academic-honesty/) will result in an F in the course and possible disciplinary action.^[So seriously, just don't cheat or plagiarize!] All violations will be formally reported to the Dean of Students.
+Students are expected to follow Georgia State University's Policy on Academic Honesty and to submit work that reflects their own efforts, except where collaboration or the use of outside tools is explicitly permitted. Academic dishonesty, including plagiarism, cheating, unauthorized collaboration, or fabrication, will be addressed in accordance with university policy and may result in academic and/or disciplinary consequences.
+
+If you are unsure whether a particular form of collaboration or assistance is permitted for an assignment, please ask before submitting your work.
 
 ### Special needs
 
-Students who wish to request accommodation for a disability may do so by registering with the [Office of Disability Services](https://disability.gsu.edu/). Students may only be accommodated upon issuance by the Office of Disability Services of a signed [Accommodation Plan](https://disability.gsu.edu/services/how-to-register/) and are responsible for providing a copy of that plan to instructors of all classes in which accommodations are sought.
+Students who require disability-related accommodations should register with Georgia State University's Access and Accommodations Center (AACE). Students with approved accommodations should provide their Faculty Notification Letter to the instructor so that the accommodations can be implemented.
 
-Students with special needs should then make an appointment with me during the first week of class to discuss any accommodations that need to be made.
+Students are encouraged to communicate approved accommodation needs as early as possible, but accommodations may be requested during the semester in accordance with university procedures.
 
 
 ## Assignments and grades
