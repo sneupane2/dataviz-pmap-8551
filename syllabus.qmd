@@ -166,7 +166,7 @@ I will not spend time trying to guess if your assignments are AI-generated.^[The
 
 We have no regularly scheduled meeting times. 
 
-Instead, 100% of the class content is asynchronous. You can do the readings and watch the videos on your own schedule at whatever time works best for you. Many of you work full time and you have childcare and parental care responsibilities, leaving you with only evenings for coursework. I've designed this asynchronous system with *you specifically* in mind. I also can only really do teaching work at night when my kids are in bed—I recorded all these videos between like 10 PM and 2 AM. We're all in similar pandemic boats.
+Instead, 100% of the class content is asynchronous. You can do the readings and watch the videos on your own schedule at whatever time works best for you. Many of you work full time and you have childcare and parental care responsibilities, leaving you with only evenings for coursework. I've designed this asynchronous system with *you specifically* in mind. 
 
 Each week has (1) a set of readings and an accompanying lecture, (2) a lesson, (3) an example with lots of reference code, and (4) a short assignment. The [schedule page](schedule.qmd) provides an overview of all these moving parts.
 
@@ -232,7 +232,7 @@ I will (typically) not accept work that is more than two weeks late. Again, this
 
 ### Counseling and Psychological Services (CPS)
 
-Life at GSU can be complicated and challenging (especially during a pandemic!). You might feel overwhelmed, experience anxiety or depression, or struggle with relationships or family responsibilities. [Counseling and Psychological Services (CPS)](https://education.gsu.edu/cps/) provides free, *confidential* support for students who are struggling with mental health and emotional challenges. The CPS office is staffed by professional psychologists who are attuned to the needs of all types of college and professional students. Please do not hesitate to contact CPS for assistance—getting help is a smart and courageous thing to do.
+College and professional studies can sometimes bring academic, personal, and emotional challenges. You may feel overwhelmed, experience anxiety or depression, or face challenges related to relationships, family responsibilities, or other circumstances. Counseling and Psychological Services (CPS) provides free, confidential support for students experiencing mental health or emotional concerns. CPS is staffed by professional psychologists who understand the diverse needs of college and professional students. Please do not hesitate to contact CPS if you need support—seeking assistance is a positive step toward your well-being.
 
 ### Basic needs security
 
