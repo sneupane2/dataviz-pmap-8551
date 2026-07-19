@@ -9,7 +9,6 @@ knitr::opts_chunk$set(fig.align = "center")
 
 For this exercise you'll practice grouping, summarizing, and plotting data using the counts of words spoken in the *Lord of the Rings* trilogy across movie, sex, and fictional species.
 
-And as always, if you're struggling, *please* e-mail me or ask a classmate for help! Don't suffer in silence!
 
 ::: {.callout-important}
 ## Do the lesson first!
