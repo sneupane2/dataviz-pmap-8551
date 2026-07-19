@@ -61,9 +61,9 @@ knitr::opts_chunk$set(fig.align = "center")
 
 ## Course objectives
 
-**Data rarely speaks for itself.** On their own, the facts contained in raw data are difficult to understand, and in the absence of beauty and order, it is impossible to understand the truth that the data shows.
+Data rarely speaks for itself. On their own, raw data can be difficult to interpret. Effective data visualization helps us identify patterns, communicate findings, and make complex information more understandable.
 
-In this class, you'll learn how to use industry-standard graphic and data design techniques to create beautiful, understandable visualizations and uncover truth in data.
+In this class, you’ll learn how to use principles of graphic and data design to create clear, effective, and informative visualizations. You’ll also learn to think critically about how data are represented and how visualization choices can shape the way information is interpreted.
 
 By the end of this course, you will become (1) literate in data and graphic design principles, and (2) an ethical data communicator, by producing beautiful, powerful, and clear visualizations of your own data. Specifically, you should:
 
@@ -79,13 +79,15 @@ This class will expose you to [R](https://cran.r-project.org/)—one of the most
 
 ## Important pep talk!
 
-I *promise* you can succeed in this class.
+I believe you can succeed in this class.
 
-Learning R can be difficult at first—it's like learning a new language, just like Spanish, French, or Chinese. Hadley Wickham—the chief data scientist at RStudio and the author of some amazing R packages you'll be using like {ggplot2}—[made this wise observation](https://r-posts.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/): 
+Learning R can be challenging at first—it is a little like learning a new language. You may encounter error messages, write code that does not work as expected, or spend time trying to solve what turns out to be a small problem. This is a normal part of learning to program.
 
-> It's easy when you start out programming to get really frustrated and think, "Oh it's me, I'm really stupid," or, "I'm not made out to program." But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It's just a natural part of programming. So, it happens to everyone and gets less and less over time. Don't blame yourself. Just take a break, do something fun, and then come back and try again later.
+Hadley Wickham, Chief Scientist at Posit and a major contributor to R packages you’ll use in this course, including {ggplot2}, has offered this useful advice—[made this wise observation](https://r-posts.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/): 
 
-Even experienced programmers find themselves bashing their heads against seemingly intractable errors. If you're finding yourself taking way too long hitting your head against a wall and not understanding, take a break, talk to classmates, e-mail me, etc. 
+> It's easy when you start out programming to get really frustrated and think, "Oh it's me, I'm really stupid," or, "I'm not made out to program." But, that is absolutely not the case. Programming can sometimes be frustrating, even for experienced users. If you find yourself stuck, take a break, review your code and error messages, consult the course resources, or reach out for help. Learning how to troubleshoot problems is an important part of learning R.
+
+
 
 ```{r}
 #| include: false
