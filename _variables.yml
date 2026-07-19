@@ -16,9 +16,9 @@ instructor:
 course:
   number: "PMAP 8551/4551"
   semester: "Fall 2026"
-  days: "Any day"
+  days: "No scheduled meeting days"
   time: "Asynchronous"
-  location: "Anywhere"
+  location: "Online"
   dates: "August 24–December 7, 2026"
   github: "https://github.com/sneupane2/dataviz-pmap-8551"
   url: "https://sneupane2.github.io/dataviz-pmap-8551/"
