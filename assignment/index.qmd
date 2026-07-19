@@ -24,7 +24,7 @@ To practice working with {ggplot2} and making data-based graphics, you will comp
 - ✔: (*10 points (100%) in gradebook*) Exercises are 70–99% complete and most answers are correct. This is the expected level of performance.
 - ✔−: (*5 points (50%) in gradebook*) Exercises are less than 70% complete and/or most answers are incorrect. This indicates that you need to improve next time. I will hopefully not assign these often.
 
-Note that this is also essentially a pass/fail system. I'm not grading your coding ability, I'm not checking each line of code to make sure it produces some exact final figure, and I'm not looking for perfect. Also note that a ✓ does not require 100% completion—you will sometimes get stuck with weird errors that you can't solve, or the demands of pandemic living might occasionally become overwhelming. I'm looking for good faith effort, that's all. Try hard, do good work, and you'll get a ✓.
+Note that this is also essentially a pass/fail system. I'm not grading your coding ability, I'm not checking each line of code to make sure it produces some exact final figure, and I'm not looking for perfect. Also note that a ✓ does not require 100% completion—you will sometimes get stuck with weird errors that you can't solve. I'm looking for good faith effort, that's all. Try hard, do good work, and you'll get a ✓.
 
 You may (and should!) work together on the exercises, but you must turn in your own answers.
 
