@@ -59,7 +59,9 @@ knitr::opts_chunk$set(fig.align = "center")
 
 ::::
 
-## Course objectives
+## Learning Outcomes
+
+### Course Description
 
 Data rarely speaks for itself. On their own, raw data can be difficult to interpret. Effective data visualization helps us identify patterns, communicate findings, and make complex information more understandable.
 
@@ -101,7 +103,7 @@ Hadley Wickham, Chief Scientist at Posit and a major contributor to R packages y
 ![Alison Horst: Gator error](files/img/syllabus/gator_error.jpg)
 
 
-## Course materials
+## Required Materials
 
 All of the readings and software in this class are **free**. There are free online versions of all the textbooks, R and RStudio are inherently free, and you can use [free vector editing software](resource/graphics-editors.qmd).
 
@@ -168,7 +170,7 @@ AI-generated information and code can be incomplete, inaccurate, or fabricated. 
 
 When an assignment requires independent work or restricts the use of AI, those requirements will be stated in the assignment instructions. All work must comply with Georgia State University's Policy on Academic Honesty.
 
-## Course schedule
+## Meeting Expectations
 
 We have no regularly scheduled meeting times. 
 
@@ -223,20 +225,20 @@ Students who have experienced sexual assault, dating or domestic violence, stalk
 
 Please be aware that faculty members are generally considered responsible employees under university policy and may be required to share reports of sexual misconduct with appropriate university officials. Students seeking confidential assistance may contact Student Victim Assistance.
 
-### Academic honesty
+### Academic Integrity
 
 Students are expected to follow Georgia State University's Policy on Academic Honesty and to submit work that reflects their own efforts, except where collaboration or the use of outside tools is explicitly permitted. Academic dishonesty, including plagiarism, cheating, unauthorized collaboration, or fabrication, will be addressed in accordance with university policy and may result in academic and/or disciplinary consequences.
 
 If you are unsure whether a particular form of collaboration or assistance is permitted for an assignment, please ask before submitting your work.
 
-### Special needs
+### Accessibility Statement
 
 Students who require disability-related accommodations should register with Georgia State University's Access and Accommodations Center (AACE). Students with approved accommodations should provide their Faculty Notification Letter to the instructor so that the accommodations can be implemented.
 
 Students are encouraged to communicate approved accommodation needs as early as possible, but accommodations may be requested during the semester in accordance with university procedures.
 
 
-## Assignments and grades
+## Grading Criteria
 
 You can find descriptions for all the assignments on the [assignments page](assignment/index.qmd).
 
